@@ -1,0 +1,4 @@
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Dominio\bin\Release\TISelvagem.Dominio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Dominio\bin\Release\TISelvagem.Dominio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Dominio\obj\Release\TISelvagem.Dominio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Dominio\obj\Release\TISelvagem.Dominio.pdb

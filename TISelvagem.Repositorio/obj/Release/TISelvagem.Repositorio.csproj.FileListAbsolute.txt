@@ -1,0 +1,4 @@
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\bin\Release\TISelvagem.Repositorio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\bin\Release\TISelvagem.Repositorio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\obj\Release\TISelvagem.Repositorio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\obj\Release\TISelvagem.Repositorio.pdb

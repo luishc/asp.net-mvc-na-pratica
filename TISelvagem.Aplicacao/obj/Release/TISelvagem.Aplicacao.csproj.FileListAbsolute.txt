@@ -1,0 +1,9 @@
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Release\TISelvagem.Aplicacao.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Release\TISelvagem.Aplicacao.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Release\TISelvagem.Dominio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Release\TISelvagem.Repositorio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Release\TISelvagem.Dominio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Release\TISelvagem.Repositorio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\obj\Release\TISelvagem.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\obj\Release\TISelvagem.Aplicacao.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\obj\Release\TISelvagem.Aplicacao.pdb

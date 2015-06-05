@@ -1,0 +1,12 @@
+c:\users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\UI.Dos.exe.config
+c:\users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\UI.Dos.exe
+c:\users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\UI.Dos.pdb
+c:\users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\obj\Debug\UI.Dos.csprojResolveAssemblyReference.cache
+c:\users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\obj\Debug\UI.Dos.exe
+c:\users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\obj\Debug\UI.Dos.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Repositorio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Repositorio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Aplicacao.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Aplicacao.pdb
