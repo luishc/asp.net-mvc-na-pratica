@@ -10,10 +10,15 @@ namespace TISelvagem.UI.Web.Controllers
 {
     public class AlunoController : Controller
     {
-        // GET: Aluno
+        private AlunoAplicacao appAluno;
+
+        public AlunoController()
+        {
+            appAluno = AlunoAplicacaoConstrutor.AlunoAplicacaoEF();
+        }
+
         public ActionResult Index()
         {
-            var appAluno = new AlunoAplicacao();
             var listaDeAlunos = appAluno.List();
             return View(listaDeAlunos);
         }
@@ -29,16 +34,14 @@ namespace TISelvagem.UI.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                var appAluno = new AlunoAplicacao();
                 appAluno.Salvar(aluno);
                 return RedirectToAction("Index");
             }
             return View(aluno);
         }
 
-        public ActionResult Edit(int id)
+        public ActionResult Edit(string id)
         {
-            var appAluno = new AlunoAplicacao();
             var aluno = appAluno.getById(id);
 
             if (aluno == null)
@@ -55,16 +58,14 @@ namespace TISelvagem.UI.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                var appAluno = new AlunoAplicacao();
                 appAluno.Salvar(aluno);
                 return RedirectToAction("Index");
             }
             return View(aluno);
         }
 
-        public ActionResult Details(int id)
+        public ActionResult Details(string id)
         {
-            var appAluno = new AlunoAplicacao();
             var aluno = appAluno.getById(id);
 
             if (aluno == null)
@@ -75,9 +76,8 @@ namespace TISelvagem.UI.Web.Controllers
             return View(aluno);
         }
 
-        public ActionResult Delete(int id)
+        public ActionResult Delete(string id)
         {
-            var appAluno = new AlunoAplicacao();
             var aluno = appAluno.getById(id);
 
             if (aluno == null)
@@ -89,10 +89,10 @@ namespace TISelvagem.UI.Web.Controllers
         }
 
         [HttpPost, ActionName("Delete")]
-        public ActionResult DeleteConfirm(int id)
+        public ActionResult DeleteConfirm(string id)
         {
-            var appAluno = new AlunoAplicacao();
-            appAluno.Delete(id);
+            var aluno = appAluno.getById(id);
+            appAluno.Delete(aluno);
             return RedirectToAction("Index");
         }
     }

@@ -7,7 +7,7 @@
     <ProjectGuid>{8AA64E36-DF37-4889-9AAE-4F787037FD02}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TISelvagem.Aplicacao</RootNamespace>
+    <RootNamespace>TISelvagem.Repositorio</RootNamespace>
     <AssemblyName>TISelvagem.Aplicacao</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlunoAplicacao.cs" />
+    <Compile Include="AlunoAplicacaoConstrutor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -47,9 +48,13 @@
       <Project>{c865b09c-2469-43d7-93e8-d35f69a80f95}</Project>
       <Name>TISelvagem.Dominio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TISelvagem.Repositorio\TISelvagem.Repositorio.csproj">
+    <ProjectReference Include="..\TISelvagem.RepositorioEF\TISelvagem.RepositorioEF.csproj">
+      <Project>{20d3ac17-b60d-4a94-afb0-0dbd18a8c14d}</Project>
+      <Name>TISelvagem.RepositorioEF</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TISelvagem.Repositorio\TISelvagem.RepositorioADO.csproj">
       <Project>{69ce1bc0-0da2-4c86-88a5-403e487e0497}</Project>
-      <Name>TISelvagem.Repositorio</Name>
+      <Name>TISelvagem.RepositorioADO</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

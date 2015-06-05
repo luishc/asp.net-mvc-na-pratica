@@ -135,13 +135,13 @@ namespace UI.Dos
                             DataNascimento = DateTime.Parse(data)
                         };
 
-                        new AlunoAplicacao().Salvar(aluno);
+                        AlunoAplicacaoConstrutor.AlunoAplicacaoADO().Salvar(aluno);
                         break;
                     }
 
                 case 2:
                     {
-                        List<Aluno> dados = new AlunoAplicacao().List();
+                        IEnumerable<Aluno> dados = AlunoAplicacaoConstrutor.AlunoAplicacaoADO().List();
 
                         foreach (var item in dados)
                         {
@@ -172,7 +172,7 @@ namespace UI.Dos
                             id = int.Parse(id)
                         };
 
-                        new AlunoAplicacao().Salvar(aluno);
+                        AlunoAplicacaoConstrutor.AlunoAplicacaoADO().Salvar(aluno);
                         break;
                     }
                 case 4:
@@ -180,7 +180,10 @@ namespace UI.Dos
                         Console.WriteLine("Digite o id do aluno: ");
                         int id = int.Parse(Console.ReadLine());
 
-                        new AlunoAplicacao().Delete(id);
+                        var appAluno = AlunoAplicacaoConstrutor.AlunoAplicacaoADO();
+                        var aluno = appAluno.getById(id.ToString());
+
+                        AlunoAplicacaoConstrutor.AlunoAplicacaoADO().Delete(aluno);
                         break;
                     }
                 default:

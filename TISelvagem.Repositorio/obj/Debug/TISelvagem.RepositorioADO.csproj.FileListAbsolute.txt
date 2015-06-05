@@ -1,0 +1,7 @@
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\bin\Debug\TISelvagem.Repositorio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\obj\Debug\TISelvagem.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Repositorio\obj\Debug\TISelvagem.Repositorio.pdb

@@ -7,3 +7,9 @@ C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvage
 C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.csprojResolveAssemblyReference.cache
 C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.dll
 C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\obj\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.RepositorioEF.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Debug\TISelvagem.RepositorioEF.pdb
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luishenrique\documents\visual studio 2013\Projects\TISelvagem\TISelvagem.Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
